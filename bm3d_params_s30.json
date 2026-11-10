@@ -1,0 +1,7 @@
+{
+  "sigma": 30,
+  "kanal": "Y (YCrCb)",
+  "asama": "HARD_THRESHOLDING",
+  "step_ht": 6,
+  "search_window_ht": 19
+}
